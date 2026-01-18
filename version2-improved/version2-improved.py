@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
 LabEquipment Manager на Tkinter
-Улучшенная версия с русскими статусами, управлением пользователями и гостевой доступом
 """
 import tkinter as tk
 from tkinter import ttk, messagebox, Toplevel, simpledialog
